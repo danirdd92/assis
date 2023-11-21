@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700490808614,
+      "tag": "0000_sticky_jocasta",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700493255604,
+      "tag": "0001_dashing_black_crow",
+      "breakpoints": true
+    }
+  ]
+}
